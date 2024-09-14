@@ -14,7 +14,7 @@ spec:
           - name: NUM_CLIENTS
             value: "10"
           - name: RUN_TIME
-            value: "2m"
+            value: "20m"
           - name: ERROR
             value: "0"
       restartPolicy: Never
